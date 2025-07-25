@@ -1,0 +1,21 @@
+.Name{
+    color: blue;
+    font-weight: 300;
+}
+
+.School{
+    color: crimson;
+}
+
+.Total{
+    color: darkmagenta;
+}
+.formatstyle{
+    text-align: center;
+    font-size: large;
+    /background-color: rgb(199, 21, 21);
+}
+.Score{
+    color: forestgreen;
+}
+
